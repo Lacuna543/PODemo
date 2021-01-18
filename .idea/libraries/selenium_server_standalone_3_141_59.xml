@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="selenium-server-standalone-3.141.59">
+    <ANNOTATIONS>
+      <root url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" />
+      <root url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Programming/Authomation/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" />
+      <root url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" />
+      <root url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" />
+      <root url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" />
+      <root url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" recursive="false" />
+    <jarDirectory url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" recursive="false" />
+    <jarDirectory url="jar://D:/Programming/Authomation/chromedriver_win32.zip!/" recursive="false" type="SOURCES" />
+    <jarDirectory url="jar://D:/Programming/Authomation/selenium-java-3.141.59.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
